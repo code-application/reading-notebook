@@ -1,6 +1,6 @@
 # 『データ指向アプリケーションデザイン』輪読会
 ## 輪読会の対象書籍
-![データ指向アプリケーションデザイン書影](https://www.oreilly.co.jp/books/images/picture_large978-4-87311-870-3.jpeg)  
+<img alt="データ指向アプリケーションデザイン書影" src="https://www.oreilly.co.jp/books/images/picture_large978-4-87311-870-3.jpeg" width="300">
 斎藤太郎監訳. 玉川竜司訳（2019）『データ指向アプリケーションデザイン』 株式会社オライリージャパン
 
 ## 輪読会の目的
